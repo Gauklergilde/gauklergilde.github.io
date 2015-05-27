@@ -38,8 +38,8 @@ body {
     min-height: 100%;
     padding-top: 110px;
     text-align: center;
-    background-image: url(../img/f1.jpg)!important;
-    background-size: 100% auto!important;
+    background-image: url(../img/fw.jpg)!important;
+    background-size: cover!important;
     background-repeat: repeat-y!important;
 }
 
