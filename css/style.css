@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Astrud' ;
+    src: url('fonts/Astrud.ttf');
+}
+
+@font-face {
+    font-family: 'Fiesta' ;
+    src: url('fonts/Fiesta.ttf');
+   
+}
+
+@font-face {
+    font-family: 'DecoTech' ;
+    src: url('fonts/DecoTech.ttf');
+   
+}
+@font-face {
+    font-family: 'Roboto-Medium' ;
+    src: url('fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Orbitron-Black' ;
+    src: url('fonts/Orbitron-Black.ttf');
+}
+
+body {
+	font-family: 'Arial'!important;
+	margin: 0!important;
+	padding: 0!important;
+
+  
+  background: url("img/blackrock.jpg")!important;
+  background-size: 100% auto!important;
+  background-repeat: repeat-y!important;
+  background-color: #000!important;
+}
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Orbitron-Black'!important;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+
+a {
+  text-decoration: none!important;  
+  transition: all 0.9s ease;
+  color: #ccc; 
+}
+
+a:hover {
+  opacity: 0.5;  
+  color: #fff; 
+    
+}
+
+p {
+    font-family: 'Arial' !important; 
+    color: #000;
+   line-height: 160%;
+    font-size: 16px;
+}
+
+.navbar-brand:hover {
+    animation: pulse 0.666s; 
+}
+
+.navbar-brand {
+  font-family: 'Orbitron-Black'!important;
+  
+}
+
+.icons {
+
+    padding-bottom: 0px!important;
+  
+}
+
+.intro-section {
+ 
+}
