@@ -82,3 +82,123 @@ p {
 .intro-section {
  
 }
+
+
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+/* 4DSIGN Webseite. */
+
+.intro-section {
+    min-height: 100%;
+    padding-top: 110px;
+    text-align: center;
+    background-image: url(../img/bgZÜRICH.jpg)!important;
+    background-size: 100% auto!important;
+    background-repeat: repeat-y!important;
+}
+
+
+.about-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+}
+
+.services-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
+}
+
+.portfolio-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+}
+
+.contact-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 18%, rgba(183,183,183,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(18%,rgba(255,255,255,1)), color-stop(100%,rgba(183,183,183,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(255,255,255,1) 18%,rgba(183,183,183,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#b7b7b7',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+
+/* Stefan Dalcher Webseite. */
+
+.titel-section {
+    min-height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background-image: url(../img/bamboo.jpg)!important;
+    background-size: 100% auto!important;
+    background-repeat: repeat-y!important;
+}
+
+
+
+.mich-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
+}
+
+
+.cv-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
+}
+
+
+.skills-section {
+    min-height: 100%;
+    padding-top: 60px;
+    text-align: center;
+    background: #fff;
+
+}
